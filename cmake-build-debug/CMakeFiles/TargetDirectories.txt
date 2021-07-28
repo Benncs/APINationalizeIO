@@ -1,0 +1,3 @@
+D:/CPP/APINationalizeio/cmake-build-debug/CMakeFiles/APINationalizeio.dir
+D:/CPP/APINationalizeio/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPP/APINationalizeio/cmake-build-debug/CMakeFiles/rebuild_cache.dir

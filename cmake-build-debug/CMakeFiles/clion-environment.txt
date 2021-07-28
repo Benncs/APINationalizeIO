@@ -1,0 +1,4 @@
+ToolSet: w64 8.0 (local)@D:\CPP\winlibs-x86_64-posix-seh-gcc-10.3.0-llvm-11.1.0-mingw-w64-8.0.0-r2\mingw64
+Options: 
+
+Options:

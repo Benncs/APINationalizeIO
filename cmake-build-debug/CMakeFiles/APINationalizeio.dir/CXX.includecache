@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CPP/APINationalizeio/Controller.cpp
+Controller.hpp
+D:/CPP/APINationalizeio/Controller.hpp
+
+D:/CPP/APINationalizeio/Controller.hpp
+Data/GetContent.hpp
+D:/CPP/APINationalizeio/Data/GetContent.hpp
+Vue.hpp
+D:/CPP/APINationalizeio/Vue.hpp
+chrono
+-
+thread
+-
+
+D:/CPP/APINationalizeio/Data/GetContent.hpp
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+map
+-
+
+D:/CPP/APINationalizeio/Vue.hpp
+iostream
+-
+vector
+-
+
