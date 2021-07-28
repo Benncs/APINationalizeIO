@@ -1,3 +1,0 @@
-"G:\Soft\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\APINationalizeio.dir/objects.a
-D:\CPP\winlibs-x86_64-posix-seh-gcc-10.3.0-llvm-11.1.0-mingw-w64-8.0.0-r2\mingw64\bin\ar.exe cr CMakeFiles\APINationalizeio.dir/objects.a @CMakeFiles\APINationalizeio.dir\objects1.rsp
-D:\CPP\winlibs-x86_64-posix-seh-gcc-10.3.0-llvm-11.1.0-mingw-w64-8.0.0-r2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\APINationalizeio.dir/objects.a -Wl,--no-whole-archive -o APINationalizeio.exe -Wl,--out-implib,libAPINationalizeio.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\APINationalizeio.dir\linklibs.rsp
